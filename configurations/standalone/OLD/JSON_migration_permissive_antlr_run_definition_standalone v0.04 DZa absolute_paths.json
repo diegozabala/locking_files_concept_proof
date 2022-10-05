@@ -1,0 +1,51 @@
+{
+  "antlr_run": {
+	"python_world_run_environment": {
+		"app_type_name": "standalone",
+		"input_container_format": "CELL",
+		"persistence_configuration": {
+			"persist_context": true,
+			"persist_to_database": false,
+			"persistence_level_verbose": true,
+			"persist_flat_grammars_folder": true
+		}
+	},
+	"file_system_world_run_environment": {
+		"output_relative_case_path": "json_tests/multi",
+		"input_genealogy_folder_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\bSRO\\history",
+		"inputs":{
+			"input_file_system_object_relative_paths_configurations": [
+			{
+			  "input_file_system_object_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\inputs\\csv",
+			  "has_headers": true
+			},
+			{
+			  "input_file_system_object_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\inputs\\txt\\UnicodeLatinBasic_UTF16.tg4.txt",
+			  "has_headers": false
+			},
+			{
+			  "input_file_system_object_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\inputs\\txt\\UnicodeLatinBasic_UTF16.tg4.txt",
+			  "has_headers": true
+			},
+			{
+			  "input_file_system_object_relative_path": "C:\\bWa\\DZa\\antlr_ws\\common\\shell_g4\\dev\\test_data\\TS2_GSAP\\T370K\\T370K full.csv",
+			  "has_headers": true,
+			  "name_column_names":  "EQART"
+			}
+			]
+		},
+		"grammars": {
+			"primary_grammar_file_system_object_relative_paths": [
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official\\SegmenterBinaryLeft_Cell.g4",
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official\\SegmenterBinaryHyphenDelimiter.g4",
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official\\SegmenterFirstHyphen.g4"
+			],
+			"resource_additional_grammars_file_system_object_relative_paths": [
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official",
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official\\SegmenterBinaryLeft_Cell.g4",
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official\\NonExistingGrammar.g4",
+				"C:\\bWa\\DZa\\antlr_ws\\inputs\\standalone\\grammars\\g4_official\\NonExistingGrammar.tg4"
+			]}
+		}
+	}
+}

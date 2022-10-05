@@ -1,0 +1,27 @@
+{
+  "creation_date": "17-08-2022",
+  "version": "0.0.1",
+  "running_mode": "bclearer_rhineland",
+  "run_settings": {
+    "parameter_settings": {
+      "common_parameters": {
+        "verbose": true,
+        "report_context": true,
+        "export_to_database": false,
+        "output_root_folder": "/Users/terraire/Downloads/DZa/antlr_ws/outputs/bSRO"
+      },
+      "dynamic_parameters": {
+        "input_files_folder_path": "/Users/terraire/Downloads/DZa/antlr_ws/supplies/inputs/PIP/test_data",
+        "thin_slice_1_grammars_folder": "/Users/terraire/Downloads/DZa/antlr_ws/supplies/inputs/g4/MVP_PIP_grammars v0.02",
+        "previous_queries_database_file": "/Users/terraire/Downloads/DZa/antlr_ws/supplies/inputs/accdb/queries.accdb"
+      }
+    },
+    "run_properties": {
+      "test_name": "Rhineland Framework",
+      "base_namespace": "PIP segment - DO14/D015",
+      "debug_run": true,
+      "official_run": false,
+      "Description": "Custom run to check the PIP segment in tag names."
+    }
+  }
+}

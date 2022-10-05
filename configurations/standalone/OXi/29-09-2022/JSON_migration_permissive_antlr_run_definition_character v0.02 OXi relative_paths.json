@@ -1,0 +1,39 @@
+{
+  "antlr_runs": [
+		{
+			"python_world_run_environment": {
+				"app_type_name": "character analysis",
+				"input_container_format": "CELL",
+				"persistence_configuration": {
+					"persist_context": true,
+					"persist_to_database": false,
+					"persistence_level_verbose": true,
+					"persist_flat_grammars_folder": true
+				}
+			},
+			"file_system_world_run_environment": {
+				"output_relative_case_path": "json_tests/relative",
+				"input_genealogy_folder_relative_path": "inputs/bSRO/history",
+				"inputs":{
+					"input_file_system_object_relative_paths_configurations": [
+						{
+							"input_file_system_object_relative_path": "inputs/bSRO/input_files/T370K",
+							"has_headers": true
+						},
+						{
+						  "input_file_system_object_relative_path": "common/shell_g4/dev/test_data/TS2_GSAP/T370K/T370K full.csv",
+						  "has_headers": true,
+						  "name_column_names":  "EQART"
+						}
+					]
+				},
+				"grammars": {
+					"primary_grammar_file_system_object_relative_paths": [
+						"inputs/character/grammars/TokeniseChar.g4"
+					],
+					"resource_additional_grammars_file_system_object_relative_paths": []
+				}
+			}
+		}
+	]
+}

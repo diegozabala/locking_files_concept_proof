@@ -1,0 +1,328 @@
+﻿EQART,EARTX,Segment1,Segment2,Segment3
+C_COM_X,Other Communic. Syst,C,COM,X
+C_CTR,Controlling (Panel),C,CTR,
+C_CTR_PROC,Process Controller,C,CTR,PROC
+C_CTR_SAFE,Safeguarding System,C,CTR,SAFE
+C_CTR_X,Controller Other,C,CTR,X
+C_IT,Computing,C,IT,
+C_IT_MAIN,Mainframe Computer,C,IT,MAIN
+C_PLC,Controlling (PLC),C,PLC,
+C_PLC_SAFE,Safeguarding PLC,C,PLC,SAFE
+E_BAT,Batteries,E,BAT,
+E_BAT_X,Other Battery,E,BAT,X
+E_CAP,Capacitor,E,CAP,
+E_CAP_X,Capacitor,E,CAP,X
+E_CAT,Cathodic Protection,E,CAT,
+E_CAT_X,Cathodic Protection,E,CAT,X
+E_CBL,Electrical Cabling,E,CBL,
+E_CBL_HV,High Voltage Cable,E,CBL,HV
+E_CBL_LV,Low Voltage Cable,E,CBL,LV
+E_CBL_X,Other Electr. Cable,E,CBL,X
+E_EAR,Earthing,E,EAR,
+E_EAR_X,Earthing Equipment,E,EAR,X
+E_GEN,Elec.Generation,E,GEN,
+E_GEN_HV,HV Generator,E,GEN,HV
+E_GEN_X,Other Generator,E,GEN,X
+E_HTG,Elec.Heating,E,HTG,
+E_HTG_ELE,El. Heating Element,E,HTG,ELE
+E_HTG_TRAC,Electrical Tracing,E,HTG,TRAC
+E_HTG_X,Other Elec. Heater,E,HTG,X
+E_HVS,HV Switching,E,HVS,
+E_HVS_CONT,HV Contactor,E,HVS,CONT
+E_HVS_X,Other HV Switch,E,HVS,X
+E_LIT,Lighting,E,LIT,
+E_LIT_X,Lighting System,E,LIT,X
+E_LVS,LV Switching,E,LVS,
+E_LVS_CBR,LV Circuit-Breaker,E,LVS,CBR
+E_LVS_CONT,LV Contactor,E,LVS,CONT
+E_LVS_RUNC,electr. run contact,E,LVS,RUNC
+E_LVS_X,Other LV Switch,E,LVS,X
+E_MOT,Motor Drive,E,MOT,
+E_MOT_ACT,Motor Operated Actua,E,MOT,ACT
+E_MOT_HVA,HV Async. Motor,E,MOT,HVA
+E_MOT_HVS,HV Synchronous Motor,E,MOT,HVS
+E_MOT_LV,Low Voltage Motor,E,MOT,LV
+E_MOT_X,Other Electric Motor,E,MOT,X
+E_PAN,Control Panels,E,PAN,
+E_PAN_X,Electric Panel Misc.,E,PAN,X
+E_PRO,Elec Protect. Funct.,E,PRO,
+E_SWB,Switchboard,E,SWB,
+E_SWB_HV,HV Switchboard,E,SWB,HV
+E_SWB_LV,LV Switchboard,E,SWB,LV
+E_SWB_X,Switchboard Miscel.,E,SWB,X
+E_TRN,Transformers,E,TRN,
+E_TRN_REAC,Electrical Reactor,E,TRN,REAC
+E_TRN_X,Transformer,E,TRN,X
+E_UPS,UPS,E,UPS,
+E_UPS_AC,A.C. UPS,E,UPS,AC
+E_UPS_DC,D.C. UPS,E,UPS,DC
+E_UPS_X,Other UPS Component,E,UPS,X
+E_VSD,Variable Speed Driv.,E,VSD,
+E_X,Electrical Misc.,E,X,
+E_X_X,Electrical Component,E,X,X
+I_CVL,Control Valve,I,CVL,
+I_CVL_ACT,Actuator,I,CVL,ACT
+I_CVL_BALL,Ball Control Valve,I,CVL,BALL
+I_CVL_BUTR,Butterfly Con. Valve,I,CVL,BUTR
+I_CVL_CAMF,Camflex Valve,I,CVL,CAMF
+I_CVL_ELEC,Solenoid Valve,I,CVL,ELEC
+I_CVL_GLOB,Globe Control Valve,I,CVL,GLOB
+I_CVL_MOV,Motor Operated Valve,I,CVL,MOV
+I_CVL_NIDL,Needle Control Valve,I,CVL,NIDL
+I_CVL_ONOF,On/Off Valve,I,CVL,ONOF
+I_CVL_POSI,Positioner,I,CVL,POSI
+I_CVL_SLID,Slide Valve,I,CVL,SLID
+I_CVL_TBAL,Tso Ball Valve,I,CVL,TBAL
+I_CVL_TGLO,Tso Globe Valve,I,CVL,TGLO
+I_CVL_THWY,Modulating 3 Way CV,I,CVL,THWY
+I_CVL_TSO,Tight Shut Off Valve,I,CVL,TSO
+I_CVL_X,Other Control Valve,I,CVL,X
+I_ELE,Elec. Measuring,I,ELE,
+I_ELE_X,Other Electr. Instr.,I,ELE,X
+I_FLO,Flow Measuring,I,FLO,
+I_FLO_CORI,Coriolis Flow Meter,I,FLO,CORI
+I_FLO_DIFF,dp flow meter electr,I,FLO,DIFF
+I_FLO_INDI,Flow Indicator,I,FLO,INDI
+I_FLO_MAGN,Magnetic Flow Meter,I,FLO,MAGN
+I_FLO_NOZ,Flow Nozzle,I,FLO,NOZ
+I_FLO_ORIF,Orifice Assembly,I,FLO,ORIF
+I_FLO_PD,PD Flow Meter,I,FLO,PD
+I_FLO_SONI,Ultrason. Flow Meter,I,FLO,SONI
+I_FLO_SWIT,"flow switch, electr.",I,FLO,SWIT
+I_FLO_THER,Thermal Flow Meter,I,FLO,THER
+I_FLO_TURB,Turbine Flow Meter,I,FLO,TURB
+I_FLO_VENT,Venturi Flow Meter,I,FLO,VENT
+I_FLO_VORT,Vortex Flow Meter,I,FLO,VORT
+I_FLO_X,Flow Meter Other,I,FLO,X
+I_LEN,Length/Displact.Meas,I,LEN,
+I_LEN_X,Length Meas. System,I,LEN,X
+I_LVL,Level Measuring,I,LVL,
+I_LVL_CAPA,Capacitance Level M.,I,LVL,CAPA
+I_LVL_COND,Conductiv. Level M.,I,LVL,COND
+I_LVL_DIFF,diffpres.level meter,I,LVL,DIFF
+I_LVL_DISP,displ.level m. elect,I,LVL,DISP
+I_LVL_FLOA,Level Float Meter,I,LVL,FLOA
+I_LVL_HYDR,hydr.level m. electr,I,LVL,HYDR
+I_LVL_INDI,Level Indicator,I,LVL,INDI
+I_LVL_RADA,Radar Level Meter,I,LVL,RADA
+I_LVL_RADI,Radioact. Level Sw.,I,LVL,RADI
+I_LVL_SERV,Servo Level Gauge,I,LVL,SERV
+I_LVL_SONI,Ultrasonic Level M.,I,LVL,SONI
+I_LVL_SWIT,"level switch, n-mech",I,LVL,SWIT
+I_LVL_VIBR,Vibrating Level Sw.,I,LVL,VIBR
+I_LVL_X,Other Level Meter,I,LVL,X
+I_PRE,Pressure Measuring,I,PRE,
+I_PRE_ABSO,abs.press.m. electr.,I,PRE,ABSO
+I_PRE_DIFF,diff.press.m.electr,I,PRE,DIFF
+I_PRE_INDI,Pressure Indicator,I,PRE,INDI
+I_PRE_RELA,rel. press. m. elect,I,PRE,RELA
+I_PRE_SWIT,Pressure Switch,I,PRE,SWIT
+I_PRE_X,Other Pressure Instr,I,PRE,X
+I_QMI,Quality Measuring,I,QMI,
+I_QMI_ARD,Air Demand Analyser,I,QMI,ARD
+I_QMI_CHRO,Gas Chromatogr.(L+G),I,QMI,CHRO
+I_QMI_COND,Conductivity Meter,I,QMI,COND
+I_QMI_DENS,Density Analyser,I,QMI,DENS
+I_QMI_FIXG,Fixed Gas Detector,I,QMI,FIXG
+I_QMI_FLAM,Fixed Flame Detector,I,QMI,FLAM
+I_QMI_GACA,Gas Calorimeter,I,QMI,GACA
+I_QMI_GAS,Trace Gas Analyser,I,QMI,GAS
+I_QMI_HC,Fixed HC Detector,I,QMI,HC
+I_QMI_IR,Infrared Analyser,I,QMI,IR
+I_QMI_MOIS,Moisture Meter,I,QMI,MOIS
+I_QMI_OXYG,Oxygen Analyser,I,QMI,OXYG
+I_QMI_PERS,Person. Gas Detector,I,QMI,PERS
+I_QMI_PH,pH Analyser,I,QMI,PH
+I_QMI_SAMP,Sampler,I,QMI,SAMP
+I_QMI_SYS,F&G Detection Syst.,I,QMI,SYS
+I_QMI_TOC,Total Organic Carbon,I,QMI,TOC
+I_QMI_VAPR,Vapour Pressure An.,I,QMI,VAPR
+I_QMI_VISC,Viscometer,I,QMI,VISC
+I_QMI_X,Other Analyser,I,QMI,X
+I_SPE,Speed/Freq.Measuring,I,SPE,
+I_SPE_X,Speed/Freq Meas Eq.,I,SPE,X
+I_SWI,Switch,I,SWI,
+I_SWI_POS,Valve Position Swtch,I,SWI,POS
+I_SWI_X,Other Switch,I,SWI,X
+I_TEM,Temperature Meas.,I,TEM,
+I_TEM_INDI,Temperat. Indicator,I,TEM,INDI
+I_TEM_IR,Infrared Thermometer,I,TEM,IR
+I_TEM_RTD,Resistance Thermom.,I,TEM,RTD
+I_TEM_SWIT,Temperature Switch,I,TEM,SWIT
+I_TEM_TC,Thermocouple,I,TEM,TC
+I_TEM_TRAN,Transmitter,I,TEM,TRAN
+I_TEM_X,Other Temp. Instr.,I,TEM,X
+I_TRA,Transducing,I,TRA,
+I_TRA_IP,I/P Converter,I,TRA,IP
+I_TRA_X,Signal Converter,I,TRA,X
+I_VIB,Vibration Measuring,I,VIB,
+I_VIB_DISP,Axial Displ. Probe,I,VIB,DISP
+I_VIB_PHA,Key Phasor,I,VIB,PHA
+I_VIB_TRAA,Axial Displ. Transm.,I,VIB,TRAA
+I_VIB_TRAV,Radial Vibr. Transm.,I,VIB,TRAV
+I_VIB_X,Vibration Probe,I,VIB,X
+I_VOL,Volume Measuring,I,VOL,
+I_WEI,Weight Measuring,I,WEI,
+I_WEI_LC,Load Cell,I,WEI,LC
+I_WEI_X,Weighing Equipment,I,WEI,X
+I_X,Misc. Instrum Funct.,I,X,
+I_X_X,Misc. Instrument,I,X,X
+M_BLR,Boiler,M,BLR,
+M_BLR_SOOT,Boiler Soot Blower,M,BLR,SOOT
+M_COL,Column,M,COL,
+M_COL_DISK,Rot. Disc Contactor,M,COL,DISK
+M_COL_PACK,Packed Column,M,COL,PACK
+M_COL_TRAY,Trayed Column,M,COL,TRAY
+M_COL_X,Other Column,M,COL,X
+M_COM,Compressing,M,COM,
+M_COM_CENT,Centrifugal Compr.,M,COM,CENT
+M_COM_RECI,Reciprocating Compr.,M,COM,RECI
+M_COM_ROTA,Rotary Compressor,M,COM,ROTA
+M_COM_X,Other Compressor,M,COM,X
+M_EJE,Ejector,M,EJE,
+M_EJE_X,Ejector,M,EJE,X
+M_ENG,Recipr.Engine Drive,M,ENG,
+M_ENG_DIES,Diesel Engine,M,ENG,DIES
+M_ENG_GAS,Gas Engine,M,ENG,GAS
+M_EXP,Expander,M,EXP,
+M_EXP_X,Expander,M,EXP,X
+M_FIL,Filtering,M,FIL,
+M_FIL_CYC,Hydrocyclone Filter,M,FIL,CYC
+M_FIL_ROTA,Rotary Filter,M,FIL,ROTA
+M_FIL_STAT,Static Filter,M,FIL,STAT
+M_FIL_X,Other Filter,M,FIL,X
+M_FUR,Furnace,M,FUR,
+M_FUR_INCI,Incinerator,M,FUR,INCI
+M_FUR_PREH,Furn. Air Preheater,M,FUR,PREH
+M_FUR_SOOT,Furnace Soot Blower,M,FUR,SOOT
+M_FUR_X,Other Furnace Eq.,M,FUR,X
+M_HTG,Mechanical Heating,M,HTG,
+M_HTG_X,Other Tracing/Heatin,M,HTG,X
+M_HVC,HVAC,M,HVC,
+M_HVC_COND,Air Condition. Syst.,M,HVC,COND
+M_LIF,Lifting,M,LIF,
+M_LIF_FIXE,Fixed Lifting Equip.,M,LIF,FIXE
+M_LIF_MOBI,Mobile Crane,M,LIF,MOBI
+M_LIF_X,Misc. Lifting Equip.,M,LIF,X
+M_LOA,Loading,M,LOA,
+M_LOA_ARM,Loading Arm,M,LOA,ARM
+M_LOA_X,Misc. Loading Equipm,M,LOA,X
+M_MIX,Mixing,M,MIX,
+M_MIX_ROTA,Propeller Mixer,M,MIX,ROTA
+M_MIX_STAT,Static Mixer,M,MIX,STAT
+M_MIX_X,Other Mixer,M,MIX,X
+M_PAC,Conveying /Packaging,M,PAC,
+M_PAC_CON2,Screw Conveyer,M,PAC,CON2
+M_PAC_CON4,Belt Conveyer,M,PAC,CON4
+M_PAC_X,Other Conv/Pack Eq.,M,PAC,X
+M_PIP,Piping,M,PIP,
+M_PIP_DUCT,Duct,M,PIP,DUCT
+M_PIP_FLAR,Mech. Part Of Flare,M,PIP,FLAR
+M_PIP_FLEX,Flexible Hose,M,PIP,FLEX
+M_PIP_FLOA,Floating Pipe,M,PIP,FLOA
+M_PIP_FTG,Pipe Fitting,M,PIP,FTG
+M_PIP_HAZA,Hazardous Piping,M,PIP,HAZA
+M_PIP_OFF,Off Plot Piping,M,PIP,OFF
+M_PIP_PROC,Process Piping,M,PIP,PROC
+M_PIP_SLR,Sphere Launch/Receiv,M,PIP,SLR
+M_PIP_SYS,Pipe System,M,PIP,SYS
+M_PIP_X,Other Piping Equip.,M,PIP,X
+M_PUM,Pumping,M,PUM,
+M_PUM_AER,Aerator,M,PUM,AER
+M_PUM_CENH,Horizont. Cent. Pump,M,PUM,CENH
+M_PUM_CENV,Vertical Centr. Pump,M,PUM,CENV
+M_PUM_CLOS,Close-Coupled Cent.P,M,PUM,CLOS
+M_PUM_DIAP,Diaphragm Pump,M,PUM,DIAP
+M_PUM_DOSI,Proportioning Pump,M,PUM,DOSI
+M_PUM_GEAR,Gear Pump,M,PUM,GEAR
+M_PUM_HSCE,High Sp. Geared Pump,M,PUM,HSCE
+M_PUM_RECI,Reciprocating Pump,M,PUM,RECI
+M_PUM_ROTA,Rotary Pump,M,PUM,ROTA
+M_PUM_SCRE,Screw Pump,M,PUM,SCRE
+M_PUM_X,Other Pump,M,PUM,X
+M_RLF,Relieving,M,RLF,
+M_RLF_BD,Rupture Disc,M,RLF,BD
+M_RLF_RV,Relief Valve,M,RLF,RV
+M_RLF_TV,Thermal Relief Valve,M,RLF,TV
+M_RLF_VV,Vacuum Relief Valve,M,RLF,VV
+M_RLF_X,Other Relief Device,M,RLF,X
+M_ROT,Misc.Rotating Funct,M,ROT,
+M_ROT_BLOW,Blower,M,ROT,BLOW
+M_ROT_CENT,Centrifuge,M,ROT,CENT
+M_ROT_COUP,Coupling,M,ROT,COUP
+M_ROT_FAN,Fan,M,ROT,FAN
+M_ROT_GBOX,Gear Box,M,ROT,GBOX
+M_ROT_X,Other Rotating Eq.,M,ROT,X
+M_TAN,Tank,M,TAN,
+M_TAN_FLRF,Floating Roof Tank,M,TAN,FLRF
+M_TAN_FXRF,Fixed Roof Tank,M,TAN,FXRF
+M_TAN_LOSO,Lub Or Seal Oil Tank,M,TAN,LOSO
+M_TAN_OWSP,Oil/Water Separator,M,TAN,OWSP
+M_TAN_SPHE,Sphere,M,TAN,SPHE
+M_TAN_UNGR,Underground Tank,M,TAN,UNGR
+M_TAN_X,Other Tank,M,TAN,X
+M_TUR,Turbine Drive,M,TUR,
+M_TUR_GAS,Gas Turbine,M,TUR,GAS
+M_TUR_STEA,Steam Turbine,M,TUR,STEA
+M_VEN,Venting,M,VEN,
+M_VEN_SILE,Silencer,M,VEN,SILE
+M_VES,Pressure Vessel,M,VES,
+M_VES_AIRV,Air Receiver Vessel,M,VES,AIRV
+M_VES_CALO,Calorifier,M,VES,CALO
+M_VES_DRY,Drier,M,VES,DRY
+M_VES_GABT,Gas Boot,M,VES,GABT
+M_VES_KODR,Knock Out Drum,M,VES,KODR
+M_VES_LAP,Atm. Luboil Vessel,M,VES,LAP
+M_VES_PULS,Pulsation Damper,M,VES,PULS
+M_VES_REAC,Reactor,M,VES,REAC
+M_VES_SCR,Scrubber,M,VES,SCR
+M_VES_SEP,Separator,M,VES,SEP
+M_VES_SLUG,Slug Catcher,M,VES,SLUG
+M_VES_X,Other Vessel,M,VES,X
+M_VLV,Valve,M,VLV,
+M_VLV_BALL,Ball Valve,M,VLV,BALL
+M_VLV_GATE,Gate Valve,M,VLV,GATE
+M_VLV_GLOB,Globe Valve,M,VLV,GLOB
+M_VLV_MAN,Hand Operated Valve,M,VLV,MAN
+M_VLV_NRET,Non Return Valve,M,VLV,NRET
+M_VLV_X,Other Valve,M,VLV,X
+M_X,Misc. Mechan. Funct,M,X,
+M_X_X,Other Mechanical Eq.,M,X,X
+M_XCH,Heat Transfer,M,XCH,
+M_XCH_AIRC,Air Cooled Exchanger,M,XCH,AIRC
+M_XCH_BOIL,Boiler/Evaporator,M,XCH,BOIL
+M_XCH_BUN,Tube Bundle,M,XCH,BUN
+M_XCH_COIL,Coil,M,XCH,COIL
+M_XCH_COND,Condenser,M,XCH,COND
+M_XCH_DBLP,Double Pipe Exchan.,M,XCH,DBLP
+M_XCH_FXTU,Fixed Tubesh. Exch.,M,XCH,FXTU
+M_XCH_PIN,U-Tube Heatexchanger,M,XCH,PIN
+M_XCH_PLTE,Plate Heat Exchanger,M,XCH,PLTE
+M_XCH_SHEL,Heat Exchanger Shell,M,XCH,SHEL
+M_XCH_TOWE,Cooling Tower,M,XCH,TOWE
+M_XCH_X,Other Heat Exchanger,M,XCH,X
+S_INF,Infrastructure,S,INF,
+S_INF_BLD,building,S,INF,BLD
+S_INF_BRG,Bridge and culvert,S,INF,BRG
+S_INF_CLTP,Concr.Liq.Tight Pavg,S,INF,CLTP
+S_INF_CULV,DO NOT USE,S,INF,CULV
+S_INF_DRN,process drainage,S,INF,DRN
+S_INF_INTC,Interceptor,S,INF,INTC
+S_INF_TPIT,Tank Pit,S,INF,TPIT
+S_INF_X,Other Infrastructure,S,INF,X
+S_STR,Structures,S,STR,
+S_STR_FLAR,Flare Incl Pipework,S,STR,FLAR
+S_STR_JTY,Jetty,S,STR,JTY
+S_STR_X,Other Structure,S,STR,X
+T_TOO,Transportable Tools,T,TOO,
+T_TOO_FIRE,Fire Extinguisher,T,TOO,FIRE
+V_CAR,Car,V,CAR,
+V_CAR_X,Car,V,CAR,X
+V_CYC,Bicycle,V,CYC,
+V_CYC_X,Bicycle Incl. Motor,V,CYC,X
+V_LOC,Locomotive,V,LOC,
+V_LOC_X,Locomotive,V,LOC,X
+V_TRL,Trailer,V,TRL,
+V_TRL_X,Trailer,V,TRL,X
+V_TRU,Truck,V,TRU,
+V_TRU_X,Truck Incl Firefight,V,TRU,X

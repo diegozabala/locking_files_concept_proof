@@ -1,0 +1,49 @@
+grammar TestLengthExactlyXChar_parser_b;
+import TestLengthExactlyXChar_token_b;
+
+/* Note: We haven't coded rules for all numbers 
+but we should add the rule here first before using the rule in another grammar  */
+
+foCharStream 
+    :
+    foCell?
+    EOF
+    ;
+
+foCell
+    :
+    CELL_EXACTLY_000_CHAR
+    | CELL_EXACTLY_001_CHAR
+    | CELL_EXACTLY_002_CHAR
+    | CELL_EXACTLY_003_CHAR
+    | CELL_EXACTLY_004_CHAR
+    | CELL_EXACTLY_005_CHAR 
+    | CELL_EXACTLY_006_CHAR
+    | CELL_EXACTLY_007_CHAR
+    | CELL_EXACTLY_008_CHAR
+    | CELL_EXACTLY_009_CHAR
+    | CELL_EXACTLY_010_CHAR
+    | CELL_EXACTLY_011_CHAR
+    | CELL_EXACTLY_012_CHAR
+    | CELL_EXACTLY_013_CHAR
+    | CELL_EXACTLY_014_CHAR
+    | CELL_EXACTLY_015_CHAR
+    | CELL_EXACTLY_016_CHAR
+    | CELL_EXACTLY_017_CHAR
+    | CELL_EXACTLY_018_CHAR
+    | CELL_EXACTLY_019_CHAR
+    | CELL_EXACTLY_020_CHAR
+    | CELL_EXACTLY_021_CHAR
+    | CELL_EXACTLY_022_CHAR
+    | CELL_EXACTLY_023_CHAR
+    | CELL_EXACTLY_024_CHAR
+    | CELL_EXACTLY_025_CHAR
+    | CELL_EXACTLY_026_CHAR
+    | CELL_EXACTLY_027_CHAR
+    | CELL_EXACTLY_028_CHAR
+    | CELL_EXACTLY_029_CHAR
+    | CELL_EXACTLY_030_CHAR
+    | CELL_EXACTLY_031_CHAR
+    | CELL_EXACTLY_032_CHAR
+    | CELL_MORE_THAN_OR_EQUAL_033_CHAR
+    ;
