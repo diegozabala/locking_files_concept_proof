@@ -1,36 +1,3 @@
-{
-  "antlr_runs": [
-		{
-			"python_world_run_environment": {
-				"app_type_name": "static analysis",
-				"input_container_format": "COLUMN",
-				"persistence_configuration": {
-					"persist_context": true,
-					"persist_to_database": true,
-					"persistence_level_verbose": true,
-					"persist_flat_grammars_folder": false
-				}
-			},
-			"file_system_world_run_environment": {
-				"output_relative_case_path": "json_tests/multi_run",
-				"input_genealogy_folder_relative_path": "inputs/bSRO/history",
-				"inputs":{
-					"input_file_system_object_relative_paths_configurations": [
-						{
-							"input_file_system_object_relative_path": "inputs/static/g4_official/inputs",
-							"has_headers": false
-						},
-						{
-							"input_file_system_object_relative_path": "inputs/bSRO/grammar/g4_official/PartitionerContainsKeywordPrkrOrPruefkreis_Cell.g4",
-							"has_headers": false
-						}
-					]
-				},
-				"grammars": {
-					"primary_grammar_file_system_object_relative_paths": [],
-					"resource_additional_grammars_file_system_object_relative_paths": []
-				}
-			}
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce368d041ec867475b2b616ad173cdfa00fd7006fdf71d12aae79bb01e3705d3
+size 1078

@@ -1,34 +1,3 @@
-{
-  "antlr_run": {
-	"python_world_run_environment": {
-		"app_type_name": "static analysis",
-		"input_container_format": "COLUMN",
-		"persistence_configuration": {
-			"persist_context": true,
-			"persist_to_database": true,
-			"persistence_level_verbose": true,
-			"persist_flat_grammars_folder": false
-		}
-	},
-	"file_system_world_run_environment": {
-		"output_relative_case_path": "json_tests",
-		"input_genealogy_folder_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\static\\history",
-		"inputs":{
-			"input_file_system_object_relative_paths_configurations": [
-			{
-			  "input_file_system_object_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\static\\prod_grammars",
-				"has_headers": false
-			},
-			{
-			  "input_file_system_object_relative_path": "C:\\bWa\\DZa\\antlr_ws\\inputs\\static\\ResourceImportRefactoring_grammars",
-				"has_headers": false
-			}
-			]
-		},
-		"grammars": {
-			"primary_grammar_file_system_object_relative_paths": [],
-			"resource_additional_grammars_file_system_object_relative_paths": []
-			}
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:431b4be535b8ee95216223f6eabf06882c0c122e9bc6f7984f5fbd094d9b0f8f
+size 1036
